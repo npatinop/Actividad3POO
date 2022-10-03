@@ -5,4 +5,5 @@
 |--------------------------------------|------------------------|--------------------|
 |Natalia Patiño Pérez                  |npatinop@unal.edu.co    | npatinop           |
 
-### Integrantes:
+### Docente:
+Walter Hugo Arboleda
